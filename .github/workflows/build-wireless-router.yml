@@ -119,6 +119,7 @@ on:
           - mercusys_mr80x-v3
           - mercusys_mr90x-v1
           - mercusys_mr90x-v1-ubi
+          - netcore_n30-pro
           - netcore_n60
           - netcore_n60-pro
           - netgear_wax220
